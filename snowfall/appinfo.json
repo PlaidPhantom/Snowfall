@@ -1,0 +1,13 @@
+{
+	"id": "com.phantomhat.snowfall",
+	"version": "1.0.1",
+	"vendor": "Phantom Hat",
+	"type": "web",
+	"main": "index.html",
+	"title": "Snowfall",
+	"icon": "images/icon.png",
+    "miniicon": "images/icon.png",
+	"uiRevision": 2,
+    "dockMode": true,
+    "noWindow": true
+}

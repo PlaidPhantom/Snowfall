@@ -1,0 +1,63 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: #003;
+}
+
+.scene {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    z-index: 1;
+}
+
+.snow {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    z-index: 2;
+}
+
+.clock {
+    position: absolute;
+    font-size: 250px;
+    z-index: 3;
+}
+
+.clock-light {
+    color: rgba(0, 0, 0, 0.5);
+}
+
+.clock-dark {
+    color: rgba(192, 192, 192, 0.5);
+}
+
+.topleft {
+    top: 0px;
+    left: 0px;
+}
+
+.topright {
+    top: 0px;
+    right: 0px;
+}
+
+.bottomleft {
+    bottom: 0px;
+    left: 0px;
+}
+
+.bottomright {
+    bottom: 0px;
+    right: 0px;
+}
+
+.center {
+    width: 100%;
+    text-align: center;
+    padding-top: 200px;
+}
+
+.hidden {
+    display: none;
+}
