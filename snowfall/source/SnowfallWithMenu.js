@@ -40,7 +40,7 @@ enyo.kind({
                     kind: "HFlexBox",
                     pack: "right",
                     components: [ {
-                            content: "version 1.0"
+                            content: "version 1.0.1"
                         }, {
                             flex: 1
                         }, {
