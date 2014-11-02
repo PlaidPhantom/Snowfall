@@ -31,7 +31,8 @@ images/scenes/evergreens.png
 images/scenes/snowflakes.png
 images/scenes/snowglobe.png
 images/scenes/snowman.png
-
+images/scenes/treefrost.png
+images/scenes/white_tree.png
 
 
 Other images sourced from MorgueFile (http://www.morguefile.com/). See the
