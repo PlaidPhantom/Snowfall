@@ -26,13 +26,13 @@ The following images (and the associated thumbnails) (c) 2012 Melinda Shores.
 They are provided under a Creative Commons Attribution-NonCommercial-ShareAlike
 4.0 International License (http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-images/scenes/colorfultrees.png
-images/scenes/evergreens.png
-images/scenes/snowflakes.png
-images/scenes/snowglobe.png
-images/scenes/snowman.png
-images/scenes/treefrost.png
-images/scenes/white_tree.png
+* images/scenes/colorfultrees.png
+* images/scenes/evergreens.png
+* images/scenes/snowflakes.png
+* images/scenes/snowglobe.png
+* images/scenes/snowman.png
+* images/scenes/treefrost.png
+* images/scenes/white_tree.png
 
 
 Other images sourced from MorgueFile (http://www.morguefile.com/). See the
