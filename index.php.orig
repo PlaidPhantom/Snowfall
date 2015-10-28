@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script type="text/javascript" src="lightbox/js/prototype.js"></script>
+    <script type="text/javascript" src="lightbox/js/scriptaculous.js?load=effects,builder"></script>
+    <script type="text/javascript" src="lightbox/js/lightbox.js"></script>
+    <link rel="stylesheet" href="lightbox/css/lightbox.css" type="text/css" media="screen" />
+    
+    <link rel="stylesheet" href="snowfall.css" />
+    <script type="text/javascript" src="snow.js"></script>
+  </head>
+  <body>
+    <div id="pagecontent">
+      <div id="header">
+        <h1><img src="images/snowfall.png" title="Snowfall" alt="Snowfall" /></h1>
+      </div>
+      <div id="sidebar">
+        <ul>
+          <li><a href="index.php">Home</a></li>
+          <li><a href="gallery.php">Gallery</a></li>
+          <li><a href="instructions.php">Instructions</a></li>
+          <li><a href="http://developer.palm.com/appredirect/?packageid=com.phantomhat.snowfall" target="_blank">App Catalog</a></li>
+        </ul>
+        
+        <div id="hatbox">
+          <a href="http://www.phantomhat.com/">
+            <img src="images/phantomhat.png" alt="visit the Phantom Hat home page" title="Phantom Hat" />
+          </a>
+          <p>Snowfall is a Phantom Hat creation.</p>
+        </div>
+      </div>
+      <div id="maincontent">
+
+<p>Welcome to the home page for <i>Snowfall</i>!  <i>Snowfall</i> is an app for the HP TouchPad which displays falling snow over a rotating set of winter backgrounds.</p>
+
+<p>Click on the screenshot below for more pictures of <i>Snowfall</i> in action, or use the links on the left for more information!</p>
+
+<p><a id="screenshotlink" href="gallery.php"><img src="images/screenshot1.png" class="screenshotlink" /></a></p>
+
+      </div>
+    </div>
+  </body>
+</html>

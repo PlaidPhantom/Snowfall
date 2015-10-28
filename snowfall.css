@@ -1,0 +1,105 @@
+body {
+    background-color: #000020;
+    background-image: url('images/bg.png');
+    background-repeat: repeat;
+    
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+    width: 100%;
+    height: 100%;
+    font-size: 12pt;
+}
+
+h2 {
+    padding: .25em 0 .25em 0;
+    font-size: 125%;
+}
+
+img {
+    border: none;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+}
+
+#pagecontent {
+    z-index: 2;
+    position: relative;
+    margin: 0 auto 0 auto;
+    width: 750px;
+    background-color: #7f7f7f;
+    background-color: rgba(127, 127, 127, .75);
+    color: white;
+    font-family: sans-serif;
+}
+
+#pagecontent a {
+    color: white;
+}
+
+#pagecontent a:link {
+    color: #eee;
+    text-decoration: underline;
+}
+
+#pagecontent a:visited {
+    color: #eee;
+    text-decoration: underline;
+}
+
+#header {
+    padding: 1em 1em .5em 1em;
+    background-image: url('images/snowflake.png');
+    background-position: bottom center;
+    background-repeat: repeat-x;
+}
+
+#header h1 {
+    padding: 0em 0em 0em 0em;
+}
+
+#sidebar {
+    display: table-cell;
+    padding: .5em .5em 1em 1em;
+    min-width: 151px;
+    background-image: url('images/snowflake.png');
+    background-position: top right;
+    background-repeat: repeat-y;
+}
+
+#sidebar ul {
+    padding-left: 1em;
+}
+
+#hatbox {
+    border: 1px solid white;
+    padding: .5em;
+    /*margin: 1em auto 1em auto;*/
+    text-align: center;
+    width: 100px;
+}
+
+#maincontent {
+    display: table-cell;
+    padding: .5em 1em 1em .5em;
+}
+
+img.screenshotlink {
+    width: 33%;
+    height: 33%;
+}
+
+ul.screenshotlinklist {
+    list-style-type: none;
+    padding: 0 0 0 0;
+}
+
+ul.screenshotlinklist > li {
+    padding: 5px 5px 5px 5px;
+    display: inline;
+    
+}
+
+ul.screenshotlinklist > li > a > img {
+    display: inline-block;
+    padding: 5px 5px 5px 5px;
+}
